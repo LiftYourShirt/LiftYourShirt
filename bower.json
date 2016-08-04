@@ -12,7 +12,7 @@
       "email": "guysharon40@gmail.com"
     },
     {
-      "name": "Or Arambam",
+      "name": "Or Harambam",
       "email": "or15000@gmail.com"
     }
   ],
@@ -32,6 +32,8 @@
   "dependencies": {
     "datatables": "^1.10.12",
     "jquery": "^3.1.0",
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "requirejs": "^2.2.0",
+    "angular": "^1.5.8"
   }
 }
