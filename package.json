@@ -1,0 +1,39 @@
+{
+  "name": "lift-your-shirt-hackthon",
+  "version": "0.0.1",
+  "description": "Lift Your Shirt Hackathon game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NirLevanon/LiftYourShirt.git"
+  },
+  "keywords": [
+    "HackLift",
+    "LiftYourShirt"
+  ],
+  "contributors": [
+    {
+      "name": "Nir Levanon",
+      "email": "nir.levanon.a@gmail.com"
+    },
+    {
+      "name": "Guy Sharon",
+      "email": "guysharon40@gmail.com"
+    },
+    {
+      "name": "Or Arambam",
+      "email": "or15000@gmail.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NirLevanon/LiftYourShirt/issues"
+  },
+  "homepage": "https://github.com/NirLevanon/LiftYourShirt#readme",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
